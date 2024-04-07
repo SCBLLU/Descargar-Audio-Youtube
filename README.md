@@ -22,6 +22,8 @@ Ejecuta el script `Descargar Musica Youtube.py` utilizando Python. Se abrirá un
 
 Luego, haz clic en el botón "Descargar" para iniciar la descarga y conversión del video a MP3.
 
+![image](https://github.com/SCBLLU/Descargar-Audio-Youtube/assets/142562208/4eb75a35-9df1-4519-8cac-74580128fe5f)
+
 ## Funcionalidades
 
 - Descargar Video: Descarga el video de YouTube y lo convierte en un archivo MP3.
